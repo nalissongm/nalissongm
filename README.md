@@ -1,6 +1,8 @@
 ## Olá! Sou Nalisson Gomes. Seja bem vindo! 👋
 <div>
-  <a href="https://github.com/nalissongm"/>
+  <a href="https://github.com/nalissongm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nalissongm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalissongm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <!--
 **nalissongm/nalissongm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
