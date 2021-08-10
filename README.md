@@ -1,8 +1,8 @@
 ## Olá! Sou Nalisson Gomes. Seja bem vindo! 👋
 <div>
   <a href="https://github.com/nalissongm">
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=nalissongm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalissongm&layout=compact&langs_count=7&theme=dark"/>
+  <img width="calc(50% - 4px)" height="180em" src="https://github-readme-stats.vercel.app/api?username=nalissongm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="calc(50% - 4px)" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalissongm&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!--
