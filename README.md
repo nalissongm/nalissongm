@@ -1,4 +1,10 @@
-## Olá, Sou Nalisson Gomes. Seja bem vindo!
+<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, seja bem-vido(a) ao meu humilde GitHub!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nalissongm&color=yellow" alt="Profile views" /> </p>
+<div>
+**Sobre mim:
+<p>Meu nome é Nalisson e sou um desenvolvedor desde 2019. Comecei Na</p>
+- :fire: Desenvolvedor Front-end.
+</div>
 <div align="center">
   <a href="https://github.com/nalissongm">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nalissongm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,8 +19,6 @@
   <img align="center" alt="Nalisson-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nalisson-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
-  ##
 
   <!--
 **nalissongm/nalissongm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
