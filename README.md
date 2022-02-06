@@ -5,12 +5,12 @@
 <table align="right" style="border:none">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nalissongm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img width="440em" src="https://github-readme-stats.vercel.app/api?username=nalissongm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalissongm&layout=compact&langs_count=5&theme=dark"/>
+      <img width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalissongm&layout=compact&langs_count=5&theme=dark"/>
     </td>
   </tr>
 </table>
