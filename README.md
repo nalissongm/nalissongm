@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>
-      <img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalissongm&layout=compact&langs_count=5&theme=dark"/>
+      <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalissongm&layout=compact&langs_count=5&theme=dark"/>
     </td>
   </tr>
 </table>
